@@ -1,4 +1,5 @@
-# No Social Security dot Work
+# No Social Security do(no)t Work
+*If you have no Social Security, you cannot been set in ICU when you sick.*  -- Inspired by [996.ICU](https://996.icu)
 ## What happened?
 Have you ever noticed some company provide works without provide their recruit SOCIAL SECURITY(A.K.A. Five Insurance and One Fund)?  
 Even if the LAW ask the company to do so, the PROFIT cause them challenging the LAW the past, the present, and the future.
