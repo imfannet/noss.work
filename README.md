@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/imfannet/noss.work/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imfannet/noss.work/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# No Social Security dot Work
+[中文版](http://noss.work/i18n/zh-cn)
+## What happened?
+Have you ever noticed some company provide works without provide their recruit SOCIAL SECURITY(A.K.A. Five Insurance and One Fund)?  
+Even if the LAW ask the company to do so, the PROFIT cause them challenging the LAW the past, the present, and the future.
+Followed by the Labors' Law of P.R.China, either the company or the other employer **MUST** provide the SOCIAL SECURITY to their recruit, even if the labor refuse it.
+## How is that possible?
+Once the company chose to not provide SOCIAL SECURITY, they can save **AT LEAST** 34.3% of labor's salary per recruit, plus with the HOUSING FUND, they **STEAL At Least 39.3%** salary from the labors pockets.
+## What should we do ?
+TBD
